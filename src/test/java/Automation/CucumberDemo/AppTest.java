@@ -10,4 +10,9 @@ public class AppTest
 		System.out.println("postJira");
 		System.out.println("postJira");
 	}
+	
+	@Test
+	public void Jira() {
+		
+	}
 }
